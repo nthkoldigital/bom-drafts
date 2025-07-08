@@ -12,7 +12,7 @@ This portal serves as the central repository for all official documents, meeting
 ## 📋 Quick Navigation
 
 ### 📝 Meeting Minutes (MOM)
-- [Sub Committee Formation - July 05, 2025](./meetings/2025-07-05-subcommittee-formation.md)
+- [Sub Committee Formation - July 05, 2025](./MOM/002-BOM.md)
 - [Previous Meeting Minutes](#) *(Coming Soon)*
 
 ### 👥 Board of Management
