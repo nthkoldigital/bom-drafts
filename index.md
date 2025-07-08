@@ -38,7 +38,6 @@ To create a harmonious, well-maintained, and secure living environment for all r
 ## 📞 Contact Information
 
 **President:** Prahlad Ramawat (NRE 261)  
-**Treasurer:** Abhishek Jain (NRD 263)  
 
 **Office Address:**  
 Newtown Heights Apartment Owners Association  
